@@ -20,5 +20,5 @@
 `console.log("hello World")`
 
 - [x] write readme repo
-- [] Update repository
-- [] fix bug
+- [ ] update repository
+- [ ] fix bug
